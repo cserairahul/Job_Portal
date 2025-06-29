@@ -116,7 +116,7 @@ npm run build
 This project is licensed under the MIT License.
 
 ## Contact
-For queries, reach out at: **ergovindthakur@gmail.com**
+For queries, reach out at: **rairahul4840@gmail.com**
 
 ---
 Let's create something cool! 🚀
